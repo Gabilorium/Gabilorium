@@ -63,8 +63,6 @@
     </a> 
 </p>
 
-<p>&nbsp;       <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabilorium&show_icons=true&theme=dark&locale=en" alt="gabilorium"/></p>
-
 <table>
   <tr>
     <td valign="top">
